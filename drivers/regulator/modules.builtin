@@ -1,0 +1,6 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/mem-acc-regulator.ko
+kernel/drivers/regulator/stub-regulator.ko
+kernel/drivers/regulator/tps65132-regulator.ko
+kernel/drivers/regulator/qpnp-regulator.ko
+kernel/drivers/regulator/qpnp-labibb-regulator.ko

@@ -1,0 +1,7 @@
+kernel/sound/soc/codecs/snd-soc-tas2552.ko
+kernel/sound/soc/codecs/snd-soc-wcd9330.ko
+kernel/sound/soc/codecs/snd-soc-wcd9xxx.ko
+kernel/sound/soc/codecs/snd-soc-wcd-cpe.ko
+kernel/sound/soc/codecs/snd-soc-msm-stub.ko
+kernel/sound/soc/codecs/snd-soc-es9018.ko
+kernel/sound/soc/codecs/sound_control_3_gpl.ko

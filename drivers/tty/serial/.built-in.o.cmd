@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/tty/serial/built-in.o drivers/tty/serial/serial_core.o drivers/tty/serial/msm_serial_hs_lge.o drivers/tty/serial/msm_serial_hs_lite.o drivers/tty/serial/msm_smd_tty.o 

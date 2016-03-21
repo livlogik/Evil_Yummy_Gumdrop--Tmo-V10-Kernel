@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/scsi_tgt.o drivers/scsi/ufs/built-in.o drivers/scsi/sd_mod.o drivers/scsi/sg.o drivers/scsi/ch.o 

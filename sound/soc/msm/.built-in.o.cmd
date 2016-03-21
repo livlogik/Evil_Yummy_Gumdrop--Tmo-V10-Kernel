@@ -1,0 +1,1 @@
+cmd_sound/soc/msm/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o sound/soc/msm/built-in.o sound/soc/msm/snd-soc-hostless-pcm.o sound/soc/msm/qdsp6v2/built-in.o sound/soc/msm/snd-soc-qdsp6v2.o sound/soc/msm/snd-soc-cpe.o sound/soc/msm/snd-soc-msm8994.o 

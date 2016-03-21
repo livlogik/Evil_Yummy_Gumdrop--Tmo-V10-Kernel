@@ -1,0 +1,2 @@
+kernel/drivers/media/platform/msm/camera_v2/fd/msm_fd_dev.ko
+kernel/drivers/media/platform/msm/camera_v2/fd/msm_fd_hw.ko

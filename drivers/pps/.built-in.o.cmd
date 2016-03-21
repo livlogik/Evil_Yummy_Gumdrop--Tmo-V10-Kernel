@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/pps/built-in.o drivers/pps/pps_core.o drivers/pps/clients/built-in.o drivers/pps/generators/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-wiimote.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/hid/hid-wiimote.o drivers/hid/hid-wiimote-core.o drivers/hid/hid-wiimote-ext.o drivers/hid/hid-wiimote-debug.o 

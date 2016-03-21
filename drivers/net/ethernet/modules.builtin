@@ -1,0 +1,3 @@
+kernel/drivers/net/ethernet/intel/e1000e/e1000e.ko
+kernel/drivers/net/ethernet/msm/rndis_ipa.ko
+kernel/drivers/net/ethernet/realtek/r8169.ko

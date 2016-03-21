@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_main.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/usb/gspca/gspca_main.o drivers/media/usb/gspca/gspca.o drivers/media/usb/gspca/autogain_functions.o 

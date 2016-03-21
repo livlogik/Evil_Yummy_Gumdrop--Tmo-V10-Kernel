@@ -1,0 +1,5 @@
+kernel/drivers/usb/phy/phy-msm-usb.ko
+kernel/drivers/usb/phy/phy-msm-hsusb.ko
+kernel/drivers/usb/phy/phy-msm-ssusb.ko
+kernel/drivers/usb/phy/phy-msm-ssusb-qmp.ko
+kernel/drivers/usb/phy/phy-msm-qusb.ko

@@ -1,0 +1,6 @@
+kernel/drivers/of/of_i2c.ko
+kernel/drivers/of/of_mdio.ko
+kernel/drivers/of/of_pci.ko
+kernel/drivers/of/of_pci_irq.ko
+kernel/drivers/of/of_spmi.ko
+kernel/drivers/of/of_slimbus.ko

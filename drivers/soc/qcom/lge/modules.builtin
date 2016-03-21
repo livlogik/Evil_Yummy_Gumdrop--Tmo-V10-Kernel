@@ -1,0 +1,10 @@
+kernel/drivers/soc/qcom/lge/lge_handle_panic.ko
+kernel/drivers/soc/qcom/lge/lge_bootloader_log.ko
+kernel/drivers/soc/qcom/lge/lge_bootloader_time_checker.ko
+kernel/drivers/soc/qcom/lge/lge_gpio_debug.ko
+kernel/drivers/soc/qcom/lge/lge_monitor_thermal.ko
+kernel/drivers/soc/qcom/lge/lge_pre_selfd.ko
+kernel/drivers/soc/qcom/lge/lge_fac_check_cpu.ko
+kernel/drivers/soc/qcom/lge/lge_fac_check_emmc.ko
+kernel/drivers/soc/qcom/lge/lge_fac_check_ram.ko
+kernel/drivers/soc/qcom/lge/lge_fac_check_matched.ko

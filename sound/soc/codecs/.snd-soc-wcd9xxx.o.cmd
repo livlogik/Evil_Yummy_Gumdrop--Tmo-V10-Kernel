@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-wcd9xxx.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o sound/soc/codecs/snd-soc-wcd9xxx.o sound/soc/codecs/wcd9xxx-resmgr.o sound/soc/codecs/wcd9xxx-mbhc.o sound/soc/codecs/wcd9xxx-common.o 

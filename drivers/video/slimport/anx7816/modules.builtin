@@ -1,0 +1,2 @@
+kernel/drivers/video/slimport/anx7816/slimport7816.ko
+kernel/drivers/video/slimport/anx7816/slimport7816_tx_drv.ko

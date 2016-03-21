@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/usb/host/built-in.o drivers/usb/host/pci-quirks.o drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-pci.o drivers/usb/host/ehci-msm.o drivers/usb/host/ehci-msm2.o drivers/usb/host/xhci-hcd.o 

@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/i2c/busses/built-in.o drivers/i2c/busses/i2c-msm-v2.o 

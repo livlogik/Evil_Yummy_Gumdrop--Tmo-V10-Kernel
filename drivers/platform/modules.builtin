@@ -1,0 +1,12 @@
+kernel/drivers/platform/msm/qpnp-power-on.ko
+kernel/drivers/platform/msm/qpnp-coincell.ko
+kernel/drivers/platform/msm/avtimer.ko
+kernel/drivers/platform/msm/qpnp-revid.ko
+kernel/drivers/platform/msm/qpnp-usbdetect.ko
+kernel/drivers/platform/msm/qpnp-haptic.ko
+kernel/drivers/platform/msm/ipa/ipat.ko
+kernel/drivers/platform/msm/ipa/rmnet_ipa.ko
+kernel/drivers/platform/msm/ipa/ipa_qmi_service_v01.ko
+kernel/drivers/platform/msm/ipa/ipa_qmi_service.ko
+kernel/drivers/platform/msm/ipa/rmnet_ipa_fd_ioctl.ko
+kernel/drivers/platform/msm/seemp_core/seemp_core.ko

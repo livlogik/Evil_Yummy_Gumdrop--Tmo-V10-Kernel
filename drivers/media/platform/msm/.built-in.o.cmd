@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/platform/msm/built-in.o drivers/media/platform/msm/vidc/built-in.o drivers/media/platform/msm/broadcast/built-in.o drivers/media/platform/msm/camera_v2/built-in.o 

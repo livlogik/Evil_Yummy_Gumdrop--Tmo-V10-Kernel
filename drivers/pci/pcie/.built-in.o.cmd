@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/pci/pcie/built-in.o drivers/pci/pcie/aspm.o drivers/pci/pcie/pcieportdrv.o drivers/pci/pcie/aer/built-in.o drivers/pci/pcie/pme.o 

@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/phy/built-in.o drivers/phy/phy-core.o drivers/phy/phy-qcom-ufs.o drivers/phy/phy-qcom-ufs-qmp-28nm.o drivers/phy/phy-qcom-ufs-qmp-20nm.o 

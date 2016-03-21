@@ -1,0 +1,5 @@
+kernel/drivers/platform/msm/ipa/ipat.ko
+kernel/drivers/platform/msm/ipa/rmnet_ipa.ko
+kernel/drivers/platform/msm/ipa/ipa_qmi_service_v01.ko
+kernel/drivers/platform/msm/ipa/ipa_qmi_service.ko
+kernel/drivers/platform/msm/ipa/rmnet_ipa_fd_ioctl.ko

@@ -1,0 +1,1 @@
+cmd_sound/soc/msm/snd-soc-msm8994.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o sound/soc/msm/snd-soc-msm8994.o sound/soc/msm/msm8994.o 

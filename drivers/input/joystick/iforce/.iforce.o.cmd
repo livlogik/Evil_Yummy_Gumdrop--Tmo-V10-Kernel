@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/iforce/iforce.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/input/joystick/iforce/iforce.o drivers/input/joystick/iforce/iforce-ff.o drivers/input/joystick/iforce/iforce-main.o drivers/input/joystick/iforce/iforce-packets.o 

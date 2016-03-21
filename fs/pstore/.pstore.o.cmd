@@ -1,0 +1,1 @@
+cmd_fs/pstore/pstore.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o fs/pstore/pstore.o fs/pstore/inode.o fs/pstore/platform.o 

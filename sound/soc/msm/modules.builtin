@@ -1,0 +1,8 @@
+kernel/sound/soc/msm/snd-soc-hostless-pcm.ko
+kernel/sound/soc/msm/snd-soc-qdsp6v2.ko
+kernel/sound/soc/msm/snd-soc-cpe.ko
+kernel/sound/soc/msm/snd-soc-msm8994.ko
+kernel/sound/soc/msm/qdsp6v2/snd-soc-qdsp6v2.ko
+kernel/sound/soc/msm/qdsp6v2/msm-pcm-dtmf-v2.ko
+kernel/sound/soc/msm/qdsp6v2/msm-dai-stub-v2.ko
+kernel/sound/soc/msm/qdsp6v2/msm-pcm-routing-devdep.ko

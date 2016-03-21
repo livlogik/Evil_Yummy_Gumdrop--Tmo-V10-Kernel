@@ -1,0 +1,1 @@
+cmd_drivers/uio/msm_sharedmem/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/uio/msm_sharedmem/built-in.o drivers/uio/msm_sharedmem/msm_sharedmem.o drivers/uio/msm_sharedmem/remote_filesystem_access_v01.o drivers/uio/msm_sharedmem/sharedmem_qmi.o 

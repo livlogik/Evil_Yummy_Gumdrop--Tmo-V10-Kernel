@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-picolcd.o := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/hid/hid-picolcd.o drivers/hid/hid-picolcd_core.o drivers/hid/hid-picolcd_fb.o drivers/hid/hid-picolcd_leds.o drivers/hid/hid-picolcd_debugfs.o 

@@ -1,0 +1,1 @@
+cmd_drivers/gpio/built-in.o :=  /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL    -r -o drivers/gpio/built-in.o drivers/gpio/devres.o drivers/gpio/gpiolib.o drivers/gpio/gpiolib-of.o drivers/gpio/qpnp-pin.o drivers/gpio/gpio-msm-smp2p.o drivers/gpio/gpio-msm-smp2p-test.o 

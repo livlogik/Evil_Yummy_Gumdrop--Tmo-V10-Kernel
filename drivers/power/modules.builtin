@@ -1,0 +1,10 @@
+kernel/drivers/power/smb1351-charger.ko
+kernel/drivers/power/smb135x-charger.ko
+kernel/drivers/power/lge_battery_id.ko
+kernel/drivers/power/qpnp-fg.ko
+kernel/drivers/power/qpnp-smbcharger.ko
+kernel/drivers/power/max17050_battery.ko
+kernel/drivers/power/battery_current_limit.ko
+kernel/drivers/power/unified_wireless_charger.ko
+kernel/drivers/power/idtp9017_wireless_power_receiver.ko
+kernel/drivers/power/lge_smpl_count.ko

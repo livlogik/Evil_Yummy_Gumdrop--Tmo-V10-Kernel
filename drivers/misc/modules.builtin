@@ -1,0 +1,5 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/compat_qseecom.ko
+kernel/drivers/misc/ti_drv2667.ko
+kernel/drivers/misc/qcom_liquid_dock.ko
+kernel/drivers/misc/lge_uei_irrc.ko

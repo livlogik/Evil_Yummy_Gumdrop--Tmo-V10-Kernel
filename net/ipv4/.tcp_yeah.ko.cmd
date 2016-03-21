@@ -1,0 +1,1 @@
+cmd_net/ipv4/tcp_yeah.ko := /home/livlogik/android/ndk/android-ndk-r10e/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-ld -EL -r  -T /home/livlogik/Git_Hub/Kernel--Evil_Yummy_Gumdrop/scripts/module-common.lds --build-id   --fix-cortex-a53-843419 -o net/ipv4/tcp_yeah.ko net/ipv4/tcp_yeah.o net/ipv4/tcp_yeah.mod.o
